@@ -1,1 +1,3 @@
-my_pow();
+my_pow() {
+//add fast
+};
